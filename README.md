@@ -1,30 +1,78 @@
-# DeV.i
+# Thaili – Your Chat & Deals Platform
 
-*Automatically synced with your [v0.dev](https://v0.dev) deployments*
+*Don't Just Find A Deal – Find _Your_ Deal*
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/pradipta-joshis-projects/v0-de-v-i-5w)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/YLL610wHnPg)
+Thaili is a personalized financial discovery platform dedicated to surfacing the most relevant, verified, and user-centered financial offers—especially for women. Our mission is to bring visibility to financial empowerment by centralizing access to opportunities that are often hidden in plain sight.
 
-## Overview
+---
 
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
+##  What is Thaili?
 
-## Deployment
+Thaili is a comprehensive digital platform that:
 
-Your project is live at:
+- Surfaces curated financial offers (like personal loans, grants, and scholarships)
+- Offers a chat-based experience to explore and compare verified deals
+- Simplifies access to key services like PAN card registration and quick loans
 
-**[https://vercel.com/pradipta-joshis-projects/v0-de-v-i-5w](https://vercel.com/pradipta-joshis-projects/v0-de-v-i-5w)**
+---
 
-## Build your app
+##  Why Thaili?
 
-Continue building your app on:
+We believe that *visibility is the first step to empowerment*. Many offers exist for women—loans, scholarships, aid funds—but most remain undiscovered due to poor access or awareness. Thaili aims to change that by offering:
 
-**[https://v0.dev/chat/projects/YLL610wHnPg](https://v0.dev/chat/projects/YLL610wHnPg)**
+1. Verified listings  
+2. Personalized discovery  
+3. Actionable insights for real financial progress  
 
-## How It Works
+“Empowerment begins with access. Access begins with relevance.”  
+— Team Thaili
 
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+
+---
+
+##  Example: NIBL Personal Loan Listing
+
+
+- Loan Amount: NPR 50,000 – 2,000,000  
+- Interest Rate: 11.99% – 16.99% p.a.  
+- For Salaried Individuals (No Collateral Required)  
+- Processing Time: 3–5 working days  
+-  01-4429479 | 📧 info@nibl.com.np
+
+---
+
+##  Login & Account Management
+
+
+Users can create an account or log in to explore personalized deals and services. Secure access allows saving deals and tracking applications.
+
+---
+
+##  Homepage Preview
+
+- Explore fast loan access  
+- Discover active PAN services  
+- Get round-the-clock financial support  
+- Open your account in a flash  
+
+---
+
+##  Our Vision
+
+We started with a simple question:  
+*"What if there was one place to see what is actually meant for you?"*
+
+Thaili is that place—a shortcut to action, a removal of barriers, and a launchpad for financial independence.
+
+---
+
+##  Assets
+
+
+- nibl-loan.png – Screenshot of NIBL loan deal  
+- login-page.png – Screenshot of login interface  
+- homepage.png – Screenshot of Thaili homepage  
+
+---
+
+
