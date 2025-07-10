@@ -1,4 +1,4 @@
-# Thaili – Your Chat & Deals Platform
+# Thaili – Your Deals Platform
 
 *Don't Just Find A Deal – Find _Your_ Deal*
 
