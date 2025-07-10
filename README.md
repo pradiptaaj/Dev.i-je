@@ -67,12 +67,11 @@ Thaili is that place—a shortcut to action, a removal of barriers, and a launch
 ---
 
 ##  Assets
+ 
+<img width="822" height="1178" alt="515424268_1268147388259921_7346192553327330278_n" src="https://github.com/user-attachments/assets/1da3c201-c74e-4066-8e36-203fbce79cea" />
+<img width="2609" height="1446" alt="518181551_1468550477794212_6936087484530835151_n" src="https://github.com/user-attachments/assets/e36b71f8-a44e-4e60-8765-93278a06c939" />
 
+---<img width="687" height="908" alt="515411041_1077698477624681_359186512494315605_n" src="https://github.com/user-attachments/assets/378a944c-3272-4661-a15b-99dcc41c470b" />
 
-- nibl-loan.png – Screenshot of NIBL loan deal  
-- login-page.png – Screenshot of login interface  
-- homepage.png – Screenshot of Thaili homepage  
-
----
 
 
